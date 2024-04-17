@@ -1,0 +1,11 @@
+body{ 
+background-color: rgb(255, 0, 221);
+color: rgba(124, 13, 214, 0.836);
+
+}
+h1
+{
+    color: hwb(64 29% 14%);
+}
+h2
+{ color: rgb(21, 156, 180);}
